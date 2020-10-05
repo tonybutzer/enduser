@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# nc files
+*.nc
+*.tif
+
 # C extensions
 *.so
 
