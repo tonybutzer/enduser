@@ -5,6 +5,11 @@
 3. Create a wzell user on the pangeo and send inroductory email to Mr. Zell
 4. Run the mosaic software for 2003 to 2015 - refine shell script in etm repo
 
+## Tactical Todo
+
+1. Create kanban for detailed steps - user on mini-panv2
+
+
 # Email of Requirements
 
 From: Kagone, Stefanie (Contractor) <skagone@contractor.usgs.gov>
