@@ -15,7 +15,8 @@ def xr_build_cube_concat_ds(tif_list, product):
     my_da_list =[]
     year_month_list = []
     for tif in tif_list:
-        tiffile = 's3://dev-et-data/' + tif
+        #tiffile = 's3://dev-et-data/' + tif
+        tiffile = tif
         print(tiffile)
         da = xr.open_rasterio(tiffile)
         #da = da.squeeze().drop(labels='band')
